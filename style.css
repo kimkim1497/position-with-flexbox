@@ -1,0 +1,111 @@
+.main0{
+    display: flex;
+    justify-content: space-between;
+  }
+  .box0{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    color: white;
+  }
+  .sub-main0{
+    display: flex;
+  }
+  .mr-50{
+    margin-right: 5px;
+  }
+
+
+
+  
+
+  .main1{
+    display: flex;
+    flex-direction: column;
+  }
+  .box1{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    color: white;
+    margin-top: 50px;
+  }
+  .box-center1{
+    align-self: center;
+  }
+  .box-end1{
+    align-self: flex-end;
+  }
+
+
+
+  .main2{
+    display: flex;
+    justify-content: center;
+  }
+  .box2{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    color: white;
+  }
+  .box-big2{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    position: relative;
+  }
+  .box-position2{
+    position: absolute;
+    left: 50px;
+    top: 50px;
+  }
+  
+
+
+  .box3{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    color: white;
+  }
+  .box-23{
+    background-color: black;
+  }
+  .box-position3{
+    position: relative;
+    left: 50px;
+    top: -50px;
+  }
+  
+
+
+
+  .box {
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    color: white;
+  }
+  .box-big {
+    width: 400px;
+    height: 150px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    right:0px;
+    bottom:0px;
+  }
+  .box-top {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .box-bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+  
+  
